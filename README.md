@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiefferdy
 - 👀 I'm interested in anything technology — computers, audio gear, cars!
-- 🌱 I'm currently on my second year in university taking up CS
+- 🌱 I'm currently taking up BS Computer Science Major in Software Technology
 - 💞️ I like playing PC games, watching shows, and listening to music
 - 📫 kiefferdy@gmail.com
 
